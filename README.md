@@ -16,6 +16,7 @@ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 - Python 3.x installed on your local machine.
+- socket
 - Git installed on your local machine.
 
  Installation
