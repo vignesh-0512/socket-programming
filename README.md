@@ -67,3 +67,5 @@ If you have any questions or feedback, please feel free to reach out:
  Email: vignesh.muga@gmail.com
  GitHub: [vignesh-0512](https://github.com/vignesh-0512)
 
+This is a simple example that uses a client-server architecture with a command-line interface (CLI). Advanced features with a graphical user interface (GUI) will be published soon.
+
