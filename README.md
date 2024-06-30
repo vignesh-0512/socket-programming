@@ -32,13 +32,25 @@ Navigate to the project directory:
     
 Usage
 To run this model, you need to open two terminals:
-  
+
+To start TCP/IP model
+move to tcp folder 
+command:
+cd tcp
    Start the client:
     python client.py
 
   Start the server:
     python server.py
-    
+
+ To work with UDP
+ move to udp folder
+ cd udp
+
+ Start server:
+  python server.py
+ Start client:
+  python client.py
 
 Once both the server and client are running, you can enter text in the client terminal. The text will be sent to the server.
 
